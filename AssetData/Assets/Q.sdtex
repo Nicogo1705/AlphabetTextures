@@ -1,0 +1,7 @@
+!Texture
+Id: 375a9942-1173-4299-a828-ae201938de63
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../Resources/Q.png
+Type: !ColorTextureType
+    ColorKeyColor: {R: 255, G: 0, B: 255, A: 255}
