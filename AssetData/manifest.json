@@ -8,7 +8,7 @@
   "tags": ["textures", "alphabet", "letters", "ui"],
   "license": "MIT",
   "thumbnail": "thumbnail.png",
-  "screenshots": [
+  "media": [
     "Resources/A.png", "Resources/B.png", "Resources/C.png", "Resources/D.png",
     "Resources/E.png", "Resources/F.png", "Resources/G.png", "Resources/H.png",
     "Resources/I.png", "Resources/J.png", "Resources/K.png", "Resources/L.png",
