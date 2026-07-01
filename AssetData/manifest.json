@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "com.example.alphabet-textures",
+  "id": "com.nicogo.alphabet-textures",
   "name": "Alphabet Textures",
   "authors": [{ "name": "Nicogo", "url": "https://github.com/Nicogo1705" }],
   "description": "26 ready-to-use letter textures (A-Z), one Stride Texture asset per glyph.",
