@@ -9,13 +9,13 @@
   "license": "MIT",
   "thumbnail": "thumbnail.png",
   "media": [
-    "Resources/A.png", "Resources/B.png", "Resources/C.png", "Resources/D.png",
-    "Resources/E.png", "Resources/F.png", "Resources/G.png", "Resources/H.png",
-    "Resources/I.png", "Resources/J.png", "Resources/K.png", "Resources/L.png",
-    "Resources/M.png", "Resources/N.png", "Resources/O.png", "Resources/P.png",
-    "Resources/Q.png", "Resources/R.png", "Resources/S.png", "Resources/T.png",
-    "Resources/U.png", "Resources/V.png", "Resources/W.png", "Resources/X.png",
-    "Resources/Y.png", "Resources/Z.png"
+    "AssetData/Resources/A.png", "AssetData/Resources/B.png", "AssetData/Resources/C.png", "AssetData/Resources/D.png",
+    "AssetData/Resources/E.png", "AssetData/Resources/F.png", "AssetData/Resources/G.png", "AssetData/Resources/H.png",
+    "AssetData/Resources/I.png", "AssetData/Resources/J.png", "AssetData/Resources/K.png", "AssetData/Resources/L.png",
+    "AssetData/Resources/M.png", "AssetData/Resources/N.png", "AssetData/Resources/O.png", "AssetData/Resources/P.png",
+    "AssetData/Resources/Q.png", "AssetData/Resources/R.png", "AssetData/Resources/S.png", "AssetData/Resources/T.png",
+    "AssetData/Resources/U.png", "AssetData/Resources/V.png", "AssetData/Resources/W.png", "AssetData/Resources/X.png",
+    "AssetData/Resources/Y.png", "AssetData/Resources/Z.png"
   ],
   "dependencies": []
 }
