@@ -9,6 +9,7 @@
   "license": "MIT",
   "thumbnail": "thumbnail.png",
   "media": [
+    "media/screenshot.png",
     "AssetData/StrideAlphabetTextures/Resources/A.png", "AssetData/StrideAlphabetTextures/Resources/B.png", "AssetData/StrideAlphabetTextures/Resources/C.png", "AssetData/StrideAlphabetTextures/Resources/D.png",
     "AssetData/StrideAlphabetTextures/Resources/E.png", "AssetData/StrideAlphabetTextures/Resources/F.png", "AssetData/StrideAlphabetTextures/Resources/G.png", "AssetData/StrideAlphabetTextures/Resources/H.png",
     "AssetData/StrideAlphabetTextures/Resources/I.png", "AssetData/StrideAlphabetTextures/Resources/J.png", "AssetData/StrideAlphabetTextures/Resources/K.png", "AssetData/StrideAlphabetTextures/Resources/L.png",
